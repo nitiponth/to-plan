@@ -54,4 +54,3 @@ The current skill was evaluated on three small Python CLI planning cases with in
 The skill adapts planning ideas from Matt Pocock's `to-spec` and `to-tickets`, and Jesse Vincent's Superpowers `writing-plans`. Anthropic's `skill-creator` supported development and evaluation; its tools are not bundled.
 
 See [attribution](skills/to-plan/ATTRIBUTION.md), [pinned sources](skills/to-plan/sources.json), and [upstream MIT notices](skills/to-plan/LICENSES.txt). Original contributions are available under the [MIT license](LICENSE).
-
